@@ -1,4 +1,3 @@
----
 
 # Sun Distance at Sunrise and Noon: The "Two Boys Arguing About the Sun" Problem (English Version)
 
